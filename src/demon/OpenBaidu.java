@@ -9,6 +9,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
  * time:2017/8/23  15:13
  * description:This is OpenBaidu to test the env is ok
  * Firefox:54.0b9
+ * IDE:IntelliJ IDEA
  */
 
 public class OpenBaidu {
