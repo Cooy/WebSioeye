@@ -135,17 +135,4 @@ public class Log {
         return inputStream;
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
