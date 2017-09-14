@@ -21,6 +21,6 @@ public class OpenBaidu {
     private static void testOpenBaidu( ){
         WebDriver driver = new FirefoxDriver();
         driver.get("https://www.baidu.com/");
-        driver.quit();
+       // driver.quit();
     }
 }
